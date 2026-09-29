@@ -20,6 +20,8 @@ Add the Shiryu Studios VPM repository:
 
 Then install **Shiryu.Shaders.PoiyomiPro**. VPM will resolve the official `com.poiyomi.pro` dependency. Poiyomi's installer will handle any required Patreon authentication and shader download.
 
+The ShiryuVPM listing also tracks Poiyomi's official Pro installer repository so dependency resolution stays on the upstream release path.
+
 ## Package IDs
 
 - Shiryu integration: `org.shiryu.shaders.poiyomipro`
