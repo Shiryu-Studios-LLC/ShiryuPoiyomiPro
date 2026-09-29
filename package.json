@@ -1,0 +1,27 @@
+{
+  "name": "org.shiryu.shaders.poiyomipro",
+  "displayName": "Shiryu.Shaders.PoiyomiPro",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "Shiryu Studios integration package for Poiyomi Pro. Installs through the official authenticated Poiyomi Pro VPM package without redistributing the paid shader payload.",
+  "vpmDependencies": {
+    "com.poiyomi.pro": ">=10.0.0"
+  },
+  "author": {
+    "name": "Shiryu Studios LLC",
+    "url": "https://github.com/Shiryu-Studios-LLC"
+  },
+  "documentationUrl": "https://github.com/Shiryu-Studios-LLC/ShiryuPoiyomiPro/blob/main/README.md",
+  "changelogUrl": "https://github.com/Shiryu-Studios-LLC/ShiryuPoiyomiPro/blob/main/CHANGELOG.md",
+  "license": "MIT",
+  "licensesUrl": "https://github.com/Shiryu-Studios-LLC/ShiryuPoiyomiPro/blob/main/LICENSE",
+  "keywords": [
+    "shiryu",
+    "shiryu-studios",
+    "poiyomi",
+    "poiyomi-pro",
+    "shader",
+    "vrchat",
+    "vpm"
+  ]
+}
